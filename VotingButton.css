@@ -1,0 +1,53 @@
+/* VotingButton.css */
+  .party-item {
+    text-align: center;
+    top: 50px;
+    margin: 10px;
+  }
+  
+  .party-logo {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+  }
+  
+  /* .thanks-message {
+    position: fixed;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+  } */
+  
+  /* .balloon {
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 0 10px 20px 10px;
+    border-color: transparent transparent green transparent;
+    position: absolute;
+    top: -20px;
+    left: 50%;
+    transform: translateX(-50%);
+  } */
+  
+  /* .green {
+    background-color: green;
+    color: white;
+    padding: 10px;
+    border-radius: 8px;
+    margin-top: 10px;
+  } */
+  
+  /* Updated styles for row-wise layout */
+  .parties-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  /* Optional: Adjust margin for spacing between party items */
+  .party-item {
+    margin: 100px;
+  }
+  

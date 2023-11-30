@@ -1,0 +1,17 @@
+RatingStarsAndComment.css
+
+button {
+    font-size: 1em;
+    background-color: transparent;
+    color: white;
+    border: none;
+    cursor: pointer;
+    transition: color 0.3s; /* Add a smooth transition effect */
+  }
+  
+  button:hover {
+    color: yellow; 
+  }
+  .text h1{
+    color: white;
+  }
