@@ -16,6 +16,8 @@ Candidate information and profiles.
 Secure electronic voting with encryption. 
 Real-time result tabulation.
 
+[Project video link ](https://youtu.be/9XLYEP7uYNk)
+
 Under the Guidence of :
 
 Ms Ruchi Talwar (Technical trainer)
